@@ -1,0 +1,60 @@
+04:00:23 ⚠️  PUBLIC_URL should be a full URL
+04:00:23 ⚠️  DB_CHARSET hasn't been set. Please make sure DB_CHARSET matches your database's collation.
+04:00:23 ✨ Server started at http://localhost:8055
+04:00:23 ✨ request completed GET 304 /admin/content/post 5ms
+04:00:24 ✨ request completed GET 304 /admin/assets/vendor.fe7856f0.css
+04:00:24 ✨ request completed GET 304 /admin/assets/index.425f8aea.css 1ms
+04:00:24 ✨ request completed GET 304 /admin/assets/use-sync.63b93cc4.js 1ms
+04:00:25 ✨ request completed GET 200 /admin/assets/index.877f0626.entry.js 1.3s
+04:00:26 ✨ request completed GET 200 /admin/assets/index.877f0626.entry.js 5ms
+04:00:27 ✨ request completed GET 200 /admin/assets/vendor.1339fc9e.js 2.9s
+04:00:30 ✨ request completed GET 200 /extensions/interfaces/index.js 13ms
+04:00:30 ✨ request completed GET 200 /extensions/panels/index.js 7ms
+04:00:30 ✨ request completed GET 200 /extensions/displays/index.js 4ms
+04:00:30 ✨ request completed GET 200 /extensions/layouts/index.js 4ms
+04:00:30 ✨ request completed GET 200 /extensions/modules/index.js 4ms
+04:00:30 ✨ request completed POST 200 /auth/refresh 103ms
+04:00:30 ✨ request completed GET 304 /admin/img/icons/android-chrome-192x192.png 1ms
+04:00:30 ✨ request completed GET 200 /server/info?limit=-1 8ms
+04:00:31 ✨ request completed GET 304 /users/me?fields[]=id&fields[]=language&fields[]=last_page&fields[]=theme&fields[]=avatar.id&fields[]=role.admin_access&fields[]=role.app_access&fields[]=role.id 11ms
+04:00:31 ✨ request completed GET 304 /admin/img/icons/safari-pinned-tab.svg 1ms
+04:00:31 ✨ request completed GET 304 /permissions?limit=-1&filter=%7B%22role%22:%7B%22_eq%22:%2288f48769-1a18-4ff8-b9ea-7ef9c85a7762%22%7D%7D 9ms
+04:00:31 ✨ request completed GET 304 /presets?filter[user][_eq]=e8ff00a6-8904-428c-b0d8-9981f4dd7dd1&limit=-1 7ms
+04:00:31 ✨ request completed GET 304 /collections?limit=-1 9ms
+04:00:31 ✨ request completed GET 304 /presets?filter[role][_eq]=88f48769-1a18-4ff8-b9ea-7ef9c85a7762&filter[user][_null]=true&limit=-1 6ms
+04:00:31 ✨ request completed GET 304 /fields?limit=-1 44ms
+04:00:31 ✨ request completed GET 304 /presets?filter[role][_null]=true&filter[user][_null]=true&limit=-1 13ms
+04:00:31 ✨ request completed GET 304 /settings 9ms
+04:00:31 ✨ request completed GET 200 /server/info?limit=-1 5ms
+04:00:32 ✨ request completed GET 304 /relations?limit=-1 26ms
+04:00:32 ✨ request completed GET 304 /dashboards?limit=-1&fields[]=*&fields[]=panels.*&sort[]=name 5ms
+04:00:32 ✨ request completed GET 304 /notifications?filter=%7B%22_and%22:[%7B%22recipient%22:%7B%22_eq%22:%22e8ff00a6-8904-428c-b0d8-9981f4dd7dd1%22%7D%7D,%7B%22status%22:%7B%22_eq%22:%22inbox%22%7D%7D]%7D&aggregate=%7B%22count%22:%22id%22%7D 7ms
+04:00:32 ✨ request completed GET 304 /admin/assets/index.f2f2ca41.js 1ms
+04:00:32 ✨ request completed GET 304 /admin/assets/index.c3501ebc.css 1ms
+04:00:32 ✨ request completed GET 304 /items/post?limit=25&fields[]=description&fields[]=title&fields[]=id&fields[]=date_post&fields[]=image_post.id&fields[]=image_post.type&fields[]=image_post.title&sort[]=id&page=1&meta[]=filter_count&meta[]=total_count 46ms
+04:00:33 ✨ request completed GET 304 /admin/assets/index.f2f2ca41.js
+04:00:33 ✨ request completed GET 304 /notifications?filter=%7B%22_and%22:[%7B%22recipient%22:%7B%22_eq%22:%22e8ff00a6-8904-428c-b0d8-9981f4dd7dd1%22%7D%7D,%7B%22status%22:%7B%22_eq%22:%22inbox%22%7D%7D]%7D&fields[]=id&fields[]=subject&fields[]=collection&fields[]=item&fields[]=timestamp&sort[]=-timestamp 7ms
+04:00:33 ✨ request completed GET 200 /server/info 6ms
+04:00:33 ✨ request completed GET 304 /admin/assets/sprite.e37451a6.svg 1ms
+04:00:33 ✨ request completed GET 304 /admin/assets/index.d4f89fc0.js 1ms
+04:00:33 ✨ request completed GET 304 /admin/assets/index.55d799e2.js 1ms
+04:00:33 ✨ request completed GET 304 /admin/assets/index.ffc6c203.js 1ms
+04:00:33 ✨ request completed GET 304 /admin/assets/material-icons-outline.32738b64.woff2 1ms
+04:00:33 ✨ request completed GET 304 /admin/assets/Inter-Medium.a4e1e7e6.woff2 1ms
+04:00:33 ✨ request completed GET 304 /admin/assets/Inter-SemiBold.af44b8a2.woff2
+04:00:33 ✨ request completed GET 304 /admin/assets/Inter-Bold.f0f54a06.woff2 1ms
+04:00:33 ✨ request completed GET 304 /admin/assets/index.7b2f54b1.js 1ms
+04:00:33 ✨ request completed PATCH 204 /users/me/track/page 21ms
+04:00:33 ✨ request completed GET 200 /assets/44236561-10ed-4a98-add2-530279615803?key=system-small-cover&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU4ZmYwMGE2LTg5MDQtNDI4Yy1iMGQ4LTk5ODFmNGRkN2RkMSIsInJvbGUiOiI4OGY0ODc2OS0xYTE4LTRmZjgtYjllYS03ZWY5Yzg1YTc3NjIiLCJhcHBfYWNjZXNzIjoxLCJhZG1pbl9hY2Nlc3MiOjEsImlhdCI6MTY0MjMwNTYzMCwiZXhwIjoxNjQyMzA2NTMwLCJpc3MiOiJkaXJlY3R1cyJ9.jtYRFNp7688wtO0OPGS4cgfwUa3DVvptM9Ut1EGfvuk 17ms
+04:00:33 ✨ request completed GET 304 /items/post?limit=25&fields[]=description&fields[]=title&fields[]=id&fields[]=date_post&fields[]=image_post.id&fields[]=image_post.type&fields[]=image_post.title&sort[]=id&page=1&meta[]=filter_count&meta[]=total_count 47ms
+04:00:33 ✨ request completed GET 304 /notifications?filter=%7B%22_and%22:[%7B%22recipient%22:%7B%22_eq%22:%22e8ff00a6-8904-428c-b0d8-9981f4dd7dd1%22%7D%7D,%7B%22status%22:%7B%22_eq%22:%22inbox%22%7D%7D]%7D&aggregate=%7B%22count%22:%22id%22%7D 5ms
+04:00:34 ✨ request completed GET 304 /admin/assets/index.d4f89fc0.js
+04:00:34 ✨ request completed GET 304 /admin/assets/index.55d799e2.js 1ms
+04:00:34 ✨ request completed GET 304 /admin/assets/index.7b2f54b1.js
+04:00:34 ✨ request completed GET 304 /admin/assets/index.ffc6c203.js 1ms
+04:01:45 ✨ request completed GET 200 /items/post?limit=25&fields[]=description&fields[]=title&fields[]=id&fields[]=date_post&sort[]=id&page=1&meta[]=filter_count&meta[]=total_count 41ms
+04:01:45 ✨ request completed PATCH 200 /presets/1 37ms
+04:04:26 ✨ Shutting down...
+04:04:26 ✨ Database connections destroyed
+04:04:26 ✨ Directus shut down OK. Bye bye!
+/home/web-keraton/web-keraton/start-directus.sh: line 3: 11616 Hangup                  sudo npx directus start
